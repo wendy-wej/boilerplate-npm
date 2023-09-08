@@ -3,6 +3,7 @@
 	"author": "Chinwendu Nweje",
 	"description": "A project from FreeCodeCamp that I am using to learn how to use node.js boop boop",
 	"keywords": [ "learning", "freecodecamp", "backend", "node", "express"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.18.2"
 	},
