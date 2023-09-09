@@ -4,6 +4,7 @@
 	"description": "A project from FreeCodeCamp that I am using to learn how to use node.js boop boop",
 	"keywords": [ "learning", "freecodecamp", "backend", "node", "express"],
 	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.18.2"
 	},
